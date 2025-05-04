@@ -1,5 +1,5 @@
 # quest-shortcuts
-Apple Shortcuts that turn your Reminder App into a Quest Manager &amp; Log with sound effects!
+Apple Shortcuts that turn your Reminders and Notes App into a Quest Manager &amp; Log with sound effects!
 
 1. REQUIREMENTS
 
