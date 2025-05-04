@@ -8,10 +8,15 @@ You need at least an iOS device and an iCloud account to run these Shortcuts.
 2. STEP-BY-STEP
 
 2.1. PRE-INSTALLER SHORTCUT
+
 IT IS IMPERATIVE THAT YOU DOWNLOAD AND RUN THE THE PRE-INSTALLER FIRST.
+
 Start by downloading The "Pre-installer" Shortcut. It creates all the Dependecies required to run the other shortcuts.
+
 Run the Shortcut. Allow it to access your Documents folder.
+
 You only need to run it once. Delete the Pre-Installer afterwards.
+
 Note: As of today, the Pre-Installer Shortcut only works if run from an iOS device (not MacOS, not iPad OS).
 
 
